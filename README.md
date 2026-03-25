@@ -160,9 +160,9 @@ The mock server runs on `http://localhost:3000`.
 
 ## Agent Information
 
-Time Usage : < 1D
-Token Used: 5.38M tokens
-Human Intervention (Coding): 30%
+### Time Usage : < 1D
+### Token Used: 5.38M tokens
+### Human Intervention (Coding): 30%
 
 This project was developed with AI assistance using:
 
