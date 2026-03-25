@@ -40,9 +40,9 @@ A React Native mobile application for technical assessment built with Expo.
 
 | Category   | Library                                                                        | Version  |
 | ---------- | ------------------------------------------------------------------------------ | -------- |
-| Components | [@rn-primitives](https://www.rnprimitives.org/)                                | ^1.2.0   |
+| Components | [@rn-primitives](https://reactnativereusables.com/)                                | ^1.2.0   |
 | Icons      | [lucide-react-native](https://lucide.dev/)                                     | ^0.545.0 |
-| Styling    | [Uniwwind](https://github.com/nicholasjng/uniwind)                             | ^1.5.0   |
+| Styling    | [Uniwind](https://docs.uniwind.dev)                             | ^1.5.0   |
 | Tailwind   | [tailwindcss](https://tailwindcss.com/)                                        | ^4.2.1   |
 | Animation  | [react-native-reanimated](https://docs.swmansion.com/react-native-reanimated/) | 4.2.1    |
 | Animation  | [moti](https://moti.fyi/)                                                      | ^0.30.0  |
